@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya1224&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya1224" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Full Stack and DSA**
 
-- 🌱 I’m currently learning **JavaScript,React.js,Solidity**
+- 🌱 I’m currently learning **JavaScript,React.js,Solidity,DSA**
 
 - 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **My project Kryptozon**
 
 - 💬 Ask me about **anything**
 
