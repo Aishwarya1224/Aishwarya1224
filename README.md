@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya1224&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya1224" /> </p>
 
-- 🔭 I’m currently working on **Full Stack and DSA**
+- 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **JavaScript,React.js,Solidity,DSA**
 
